@@ -70,6 +70,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="107_BinaryTreeLevelOrderTraversalII .cpp" />
+    <ClCompile Include="114_FlattenBinaryTreetoLinkedList.cpp" />
+    <ClCompile Include="137_SingleNumberII.cpp" />
+    <ClCompile Include="144_BinaryTreePreorderTraversal.cpp" />
+    <ClCompile Include="94_BinaryTreeInorderTraversal.cpp" />
+    <ClCompile Include="98_ValidateBinarySearchTree.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>

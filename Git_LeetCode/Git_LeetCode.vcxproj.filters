@@ -24,6 +24,21 @@
     <ClCompile Include="107_BinaryTreeLevelOrderTraversalII .cpp">
       <Filter>类文件</Filter>
     </ClCompile>
+    <ClCompile Include="98_ValidateBinarySearchTree.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114_FlattenBinaryTreetoLinkedList.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="144_BinaryTreePreorderTraversal.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_BinaryTreeInorderTraversal.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137_SingleNumberII.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defstruct.h">
