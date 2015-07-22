@@ -69,10 +69,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="103_BinaryTreeZigzagLevelOrderTraversal.cpp" />
     <ClCompile Include="107_BinaryTreeLevelOrderTraversalII .cpp" />
     <ClCompile Include="114_FlattenBinaryTreetoLinkedList.cpp" />
+    <ClCompile Include="116_PopulatingNextRightPointersinEachNode.cpp" />
     <ClCompile Include="137_SingleNumberII.cpp" />
     <ClCompile Include="144_BinaryTreePreorderTraversal.cpp" />
+    <ClCompile Include="199_BinaryTreeRightSideView.cpp" />
+    <ClCompile Include="222_CountCompleteTreeNodes.cpp" />
+    <ClCompile Include="237_DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="94_BinaryTreeInorderTraversal.cpp" />
     <ClCompile Include="98_ValidateBinarySearchTree.cpp" />
     <ClCompile Include="main.cpp" />
