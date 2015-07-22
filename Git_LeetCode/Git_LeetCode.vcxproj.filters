@@ -39,6 +39,21 @@
     <ClCompile Include="137_SingleNumberII.cpp">
       <Filter>类文件</Filter>
     </ClCompile>
+    <ClCompile Include="103_BinaryTreeZigzagLevelOrderTraversal.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="199_BinaryTreeRightSideView.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="237_DeleteNodeinaLinkedList.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116_PopulatingNextRightPointersinEachNode.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="222_CountCompleteTreeNodes.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defstruct.h">
