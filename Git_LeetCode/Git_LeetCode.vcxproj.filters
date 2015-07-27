@@ -54,6 +54,33 @@
     <ClCompile Include="222_CountCompleteTreeNodes.cpp">
       <Filter>类文件</Filter>
     </ClCompile>
+    <ClCompile Include="228_SummaryRanges.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="219_ContainsDuplicateII.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_3SumCloses.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_3Sum.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_MaximumSubarray.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1_TowSum.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48_RotateImage.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50_Pow_x_n.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69_Sqrt_x.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defstruct.h">
