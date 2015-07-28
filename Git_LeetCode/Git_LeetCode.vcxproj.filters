@@ -81,6 +81,9 @@
     <ClCompile Include="69_Sqrt_x.cpp">
       <Filter>类文件</Filter>
     </ClCompile>
+    <ClCompile Include="223_RectangleArea.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defstruct.h">

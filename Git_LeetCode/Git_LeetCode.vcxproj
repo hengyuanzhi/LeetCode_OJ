@@ -81,6 +81,7 @@
     <ClCompile Include="1_TowSum.cpp" />
     <ClCompile Include="219_ContainsDuplicateII.cpp" />
     <ClCompile Include="222_CountCompleteTreeNodes.cpp" />
+    <ClCompile Include="223_RectangleArea.cpp" />
     <ClCompile Include="228_SummaryRanges.cpp" />
     <ClCompile Include="237_DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="48_RotateImage.cpp" />
