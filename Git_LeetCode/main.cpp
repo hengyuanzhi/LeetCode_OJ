@@ -5,7 +5,7 @@
 #include<stack>
 
 #include "defstruct.h"
-#include"50_Pow_x_n.cpp"
+#include"35_SearchInsertPosition.cpp"
 using namespace std;
 
 int main()
@@ -20,11 +20,9 @@ int main()
 	//t->right = new TreeNode(15);
 	//t->right->left = new TreeNode(6);
 	//t->right->right = new TreeNode(20);
-	vector<vector<int>> nums;
-	vector<int> tmp = {1};
-	nums.push_back(tmp);
+	vector<int> nums{ 1, 3, 5 };
 
-	//auto v = solu.myPow(8.88023, 3);
+	auto v = solu.searchInsert(nums, 2);
 	int n = -INT_MIN;
 	cout << n << endl;
 	getchar();
