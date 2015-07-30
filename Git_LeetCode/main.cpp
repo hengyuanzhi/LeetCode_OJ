@@ -5,7 +5,7 @@
 #include<stack>
 
 #include "defstruct.h"
-#include"35_SearchInsertPosition.cpp"
+#include"240_SearchA2DMatrixII.cpp"
 using namespace std;
 
 int main()
@@ -20,9 +20,13 @@ int main()
 	//t->right = new TreeNode(15);
 	//t->right->left = new TreeNode(6);
 	//t->right->right = new TreeNode(20);
-	vector<int> nums{ 1, 3, 5 };
+	vector<vector<int>> matrix;
+	vector<int> nums1{ 1, 4 };
+	vector<int> nums2{ 2, 5 };
+	matrix.push_back(nums1);
+	matrix.push_back(nums2);
 
-	auto v = solu.searchInsert(nums, 2);
+	auto v = solu.searchMatrix(matrix, 2);
 	int n = -INT_MIN;
 	cout << n << endl;
 	getchar();
