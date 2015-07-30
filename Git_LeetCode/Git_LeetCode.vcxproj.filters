@@ -87,6 +87,18 @@
     <ClCompile Include="35_SearchInsertPosition.cpp">
       <Filter>类文件</Filter>
     </ClCompile>
+    <ClCompile Include="74_SearchA2DMatrix.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="240_SearchA2DMatrixII.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29_DivideTwoIntegers.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
+    <ClCompile Include="153_FindMinimumInRotatedSortedArray.cpp">
+      <Filter>类文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defstruct.h">
