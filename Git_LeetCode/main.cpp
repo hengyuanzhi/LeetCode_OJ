@@ -3,9 +3,8 @@
 #include<string>
 #include<queue>
 #include<stack>
-
 #include "defstruct.h"
-#include"240_SearchA2DMatrixII.cpp"
+#include"168_ExcelSheetColumnTitle.cpp"
 using namespace std;
 
 int main()
@@ -21,12 +20,12 @@ int main()
 	//t->right->left = new TreeNode(6);
 	//t->right->right = new TreeNode(20);
 	vector<vector<int>> matrix;
-	vector<int> nums1{ 1, 4 };
+	vector<int> nums1{ 1, 3 };
 	vector<int> nums2{ 2, 5 };
 	matrix.push_back(nums1);
 	matrix.push_back(nums2);
 
-	auto v = solu.searchMatrix(matrix, 2);
+	auto v = solu.convertToTitle(28);
 	int n = -INT_MIN;
 	cout << n << endl;
 	getchar();

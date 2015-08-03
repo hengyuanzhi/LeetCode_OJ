@@ -77,6 +77,7 @@
     <ClCompile Include="144_BinaryTreePreorderTraversal.cpp" />
     <ClCompile Include="153_FindMinimumInRotatedSortedArray.cpp" />
     <ClCompile Include="15_3Sum.cpp" />
+    <ClCompile Include="168_ExcelSheetColumnTitle.cpp" />
     <ClCompile Include="16_3SumCloses.cpp" />
     <ClCompile Include="199_BinaryTreeRightSideView.cpp" />
     <ClCompile Include="1_TowSum.cpp" />
@@ -87,6 +88,7 @@
     <ClCompile Include="237_DeleteNodeinaLinkedList.cpp" />
     <ClCompile Include="240_SearchA2DMatrixII.cpp" />
     <ClCompile Include="29_DivideTwoIntegers.cpp" />
+    <ClCompile Include="34_SearchForARange.cpp" />
     <ClCompile Include="35_SearchInsertPosition.cpp" />
     <ClCompile Include="48_RotateImage.cpp" />
     <ClCompile Include="50_Pow_x_n.cpp" />
